@@ -1,5 +1,7 @@
 # Teclast T8용 LineageOS 14.1 (Android 7.1.2) — 비공식 포팅
 
+[English](README.md) | **한국어**
+
 MediaTek **MT8176** 태블릿 **Teclast T8 (Master T8)**용 비공식 LineageOS 14.1 포팅입니다.
 
 Amazon Fire HD 10 2017(`suez`, MT8173)용 LineageOS 14.1의 시스템에 T8 순정 커널, 하드웨어 드라이버(vendor), 기기 설정을 합쳐서 만들었습니다. LineageOS 공식 빌드가 **아니며**, LineageOS·Teclast·Amazon과 관련이 없습니다.
@@ -134,9 +136,9 @@ TWRP 이미지를 **recovery** 파티션에만 올립니다.
 
 | 파일 | 비고 |
 |---|---|
-| `lineage-14.1-20261110-UNOFFICIAL-T8-port-r5.zip` | ROM. SHA-256: `189ceb93a2f6ece4af50f044cab5e238a646223ab10c17d5aa8e25836ab934cc` |
+| [`lineage-14.1-20261110-UNOFFICIAL-T8-port-r5.zip`](https://github.com/sdtown-kr/Teclast-Master-T8-LineageOS-14.1-Unofficial-ROM/releases/download/custom-rom/lineage-14.1-20261110-UNOFFICIAL-T8-port-r5.zip) | ROM. SHA-256: `189ceb93a2f6ece4af50f044cab5e238a646223ab10c17d5aa8e25836ab934cc` |
 
-링크: _다운로드 링크를 여기에 넣어 주세요_
+**다운로드:** [lineage-14.1-20261110-UNOFFICIAL-T8-port-r5.zip](https://github.com/sdtown-kr/Teclast-Master-T8-LineageOS-14.1-Unofficial-ROM/releases/download/custom-rom/lineage-14.1-20261110-UNOFFICIAL-T8-port-r5.zip)
 
 ---
 
