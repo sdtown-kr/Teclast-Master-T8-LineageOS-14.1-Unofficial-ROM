@@ -1,5 +1,7 @@
 # LineageOS 14.1 (Android 7.1.2) for Teclast T8 — Unofficial Port
 
+**English** | [한국어](README.ko.md)
+
 An unofficial LineageOS 14.1 port for the **Teclast T8 (Master T8)** tablet, MediaTek **MT8176**.
 
 The ROM combines the LineageOS 14.1 system from the Amazon Fire HD 10 2017 (`suez`, MT8173) with the T8's own stock kernel, vendor blobs and device configuration. It is **not** an official LineageOS build and is not affiliated with LineageOS, Teclast or Amazon.
@@ -132,9 +134,9 @@ Not included. If you want Google apps, flash an **arm64, Android 7.1** GApps pac
 
 | File | Notes |
 |---|---|
-| `lineage-14.1-20261110-UNOFFICIAL-T8-port-r5.zip` | ROM. SHA-256: `189ceb93a2f6ece4af50f044cab5e238a646223ab10c17d5aa8e25836ab934cc` |
+| [`lineage-14.1-20261110-UNOFFICIAL-T8-port-r5.zip`](https://github.com/sdtown-kr/Teclast-Master-T8-LineageOS-14.1-Unofficial-ROM/releases/download/custom-rom/lineage-14.1-20261110-UNOFFICIAL-T8-port-r5.zip) | ROM. SHA-256: `189ceb93a2f6ece4af50f044cab5e238a646223ab10c17d5aa8e25836ab934cc` |
 
-Links: _add your download links here_
+**Download:** [lineage-14.1-20261110-UNOFFICIAL-T8-port-r5.zip](https://github.com/sdtown-kr/Teclast-Master-T8-LineageOS-14.1-Unofficial-ROM/releases/download/custom-rom/lineage-14.1-20261110-UNOFFICIAL-T8-port-r5.zip)
 
 ---
 
